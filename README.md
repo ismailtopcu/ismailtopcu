@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmail</h1>
-<h3 align="center">I'm Jr. BackEnd,FrontEnd developer.</h3>
+<h3 align="center">I'm Jr. Full Stack Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
